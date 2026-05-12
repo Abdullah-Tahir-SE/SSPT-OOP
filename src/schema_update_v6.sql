@@ -1,0 +1,1 @@
+ALTER TABLE students ADD COLUMN current_sgpa DOUBLE DEFAULT 0.0;

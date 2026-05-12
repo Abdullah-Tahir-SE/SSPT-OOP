@@ -1,0 +1,30 @@
+=================================================================
+                   SMART SEMESTER PROGRESS REPORT                
+=================================================================
+Generated On: 2025-12-14 12:20
+Student: Maryam (FA24-BSE-035)
+Degree : BS Cyber Security | Semester: 3
+-----------------------------------------------------------------
+
+SUMMARY GCPA
+Current Semester GPA: 0.00
+
+DETAILED COURSE PERFORMANCE:
+-- C101 : ICT
+   Credits: 4
+   Theory Attendance: 90.6%
+   Lab Attendance   : 75.0%
+   Total Percentage: 26.6
+   Grade: F (GPA: 0.0)
+
+-- C103 : OOP
+   Credits: 4
+   Theory Attendance: 90.6%
+   Lab Attendance   : 81.3%
+   Total Percentage: 0.0
+   Grade: F (GPA: 0.0)
+
+
+=================================================================
+                   END OF REPORT                                 
+=================================================================

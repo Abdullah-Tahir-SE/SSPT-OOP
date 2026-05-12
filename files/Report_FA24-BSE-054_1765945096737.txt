@@ -1,0 +1,67 @@
+=================================================================
+                   SMART SEMESTER PROGRESS REPORT                
+=================================================================
+Generated On: 2025-12-17 09:18
+Student: HAMARIS (FA24-BSE-054)
+Degree : BS Data Science (BSDS) | Semester: 3
+-----------------------------------------------------------------
+
+SEMESTER SUMMARY
+-----------------------------------------------------------------
+Total Credits  : 13
+Total QP       : 13.20
+Semester GPA   : 3.30
+Semester Grade : B+
+-----------------------------------------------------------------
+
+DETAILED COURSE PERFORMANCE
+=================================================================
+[CSC102] PF
+Final Grade: B+   |   GPA: 3.30
+
+   [MARKS BREAKDOWN]
+   Theory:
+      - ASSIGNMENT 1   : 7.0 / 10.0
+      - ASSIGNMENT 2   : 6.0 / 10.0
+      - QUIZ 1         : 6.0 / 10.0
+      - QUIZ 2         : 6.0 / 10.0
+      - Mid Term       : 22.0 / 25.0
+      - Final Term     : 42.0 / 50.0
+
+   Lab:
+      - LAB_ASSIGNMENT 1: 9.0 / 10.0
+      - LAB_ASSIGNMENT 2: 8.0 / 10.0
+      - LAB_ASSIGNMENT 3: 7.0 / 10.0
+      - LAB_ASSIGNMENT 4: 7.5 / 10.0
+      - Lab Mid        : 16.0 / 25.0
+      - Lab Final      : 45.0 / 50.0
+
+   TOTAL OBTAINED: 181.5 / 230.0
+-----------------------------------------------------------------
+[CSC240] Data Stuctures
+Final Grade: N/A   |   GPA: 0.00
+
+   [MARKS BREAKDOWN]
+
+   Lab:
+
+   TOTAL OBTAINED: 0.0 / 0.0
+-----------------------------------------------------------------
+[HUM102] Islmaiyat
+Final Grade: N/A   |   GPA: 0.00
+
+   [MARKS BREAKDOWN]
+
+   TOTAL OBTAINED: 0.0 / 0.0
+-----------------------------------------------------------------
+[SEG] se
+Final Grade: N/A   |   GPA: 0.00
+
+   [MARKS BREAKDOWN]
+
+   TOTAL OBTAINED: 0.0 / 0.0
+-----------------------------------------------------------------
+
+=================================================================
+                   END OF REPORT                                 
+=================================================================

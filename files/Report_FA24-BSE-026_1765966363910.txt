@@ -1,0 +1,98 @@
+=================================================================
+                   SMART SEMESTER PROGRESS REPORT                
+=================================================================
+Generated On: 2025-12-17 15:12
+Student: Abdullah Tahir (FA24-BSE-026)
+Degree : BS Cyber Security | Semester: 4
+-----------------------------------------------------------------
+
+SEMESTER SUMMARY
+-----------------------------------------------------------------
+Total Credits  : 15
+Total QP       : 43.10
+Semester GPA   : 2.87
+Semester Grade : B-
+-----------------------------------------------------------------
+
+DETAILED COURSE PERFORMANCE
+=================================================================
+[C101] PF
+Final Grade: C+   |   GPA: 2.30
+
+   [MARKS BREAKDOWN]
+   Theory:
+      - ASSIGNMENT 1   : 2.0 / 10.0
+      - ASSIGNMENT 2   : 4.0 / 10.0
+      - QUIZ 1         : 5.0 / 10.0
+      - Mid Term       : 19.5 / 25.0
+      - Final Term     : 30.0 / 50.0
+
+   Lab:
+      - LAB_ASSIGNMENT 1: 9.0 / 10.0
+      - LAB_ASSIGNMENT 2: 5.0 / 10.0
+      - Lab Mid        : 19.0 / 25.0
+      - Lab Final      : 38.0 / 50.0
+
+   TOTAL OBTAINED: 131.5 / 200.0
+-----------------------------------------------------------------
+[c111] web
+Final Grade: B+   |   GPA: 3.30
+
+   [MARKS BREAKDOWN]
+   Theory:
+      - ASSIGNMENT 1   : 8.0 / 10.0
+      - ASSIGNMENT 2   : 6.0 / 10.0
+      - QUIZ 1         : 5.0 / 10.0
+      - Mid Term       : 20.0 / 25.0
+      - Final Term     : 35.0 / 50.0
+
+   Lab:
+      - LAB_ASSIGNMENT 1: 9.0 / 10.0
+      - Lab Mid        : 24.0 / 25.0
+      - Lab Final      : 45.0 / 50.0
+
+   TOTAL OBTAINED: 152.0 / 190.0
+-----------------------------------------------------------------
+[CSE604] OOP
+Final Grade: B-   |   GPA: 2.70
+
+   [MARKS BREAKDOWN]
+   Theory:
+      - ASSIGNMENT 1   : 7.0 / 10.0
+      - ASSIGNMENT 2   : 6.7 / 10.0
+      - ASSIGNMENT 3   : 9.0 / 10.0
+      - ASSIGNMENT 4   : 10.0 / 10.0
+      - QUIZ 1         : 10.0 / 10.0
+      - QUIZ 2         : 8.0 / 10.0
+      - Mid Term       : 22.0 / 25.0
+      - Final Term     : 25.0 / 50.0
+
+   Lab:
+      - LAB_ASSIGNMENT 1: 7.0 / 10.0
+      - LAB_ASSIGNMENT 2: 8.0 / 10.0
+      - LAB_ASSIGNMENT 3: 9.0 / 10.0
+      - LAB_ASSIGNMENT 4: 6.0 / 10.0
+      - Lab Mid        : 16.0 / 25.0
+      - Lab Final      : 30.0 / 50.0
+
+   TOTAL OBTAINED: 173.7 / 250.0
+-----------------------------------------------------------------
+[HUM113] ISLAMIC Study
+Final Grade: B+   |   GPA: 3.30
+
+   [MARKS BREAKDOWN]
+   Theory:
+      - ASSIGNMENT 1   : 9.0 / 10.0
+      - ASSIGNMENT 2   : 7.0 / 10.0
+      - QUIZ 1         : 7.0 / 10.0
+      - QUIZ 2         : 4.0 / 5.0
+      - QUIZ 3         : 4.0 / 10.0
+      - Mid Term       : 20.0 / 25.0
+      - Final Term     : 40.5 / 50.0
+
+   TOTAL OBTAINED: 91.5 / 120.0
+-----------------------------------------------------------------
+
+=================================================================
+                   END OF REPORT                                 
+=================================================================

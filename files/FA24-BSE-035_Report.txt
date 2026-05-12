@@ -1,0 +1,14 @@
+----------------------------------------
+SMART SEMESTER PROGRESS TRACKER - REPORT
+----------------------------------------
+Name     : Maryam
+Reg No   : FA24-BSE-035
+Program  : Bachelor
+Degree   : Artificial Intelligence
+Semester : 7
+----------------------------------------
+
+CSC21 | OOP | 0.00% | F | GPA 0.00 | 4 credits
+CSD32 | DB | 149.00% | A+ | GPA 4.00 | 4 credits
+
+Semester GPA (SGPA): 2.00
