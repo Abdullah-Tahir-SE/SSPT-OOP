@@ -211,7 +211,7 @@ SSPT OOP/
 |------|----------------|
 | Abdullah Tahir | FA24-BSE-026 |
 | Maryam Zahid   | FA24-BSE-035 |
-| M Danish Fraz  | FA24-BSE-054 |
+| M Danish Fraz  | FA24-BSE-047 |
 
 **Course:** Object-Oriented Programming (OOP)  
 **University:** COMSATS University Islamabad, Sahiwal Campus  
